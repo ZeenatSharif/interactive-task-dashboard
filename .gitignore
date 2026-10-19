@@ -1,0 +1,11 @@
+node_modules/
+**/node_modules/
+dist/
+dist-ssr/
+.env
+**/.env
+.env.*
+!.env.example
+backend/tasks.db
+**/tasks.db
+*.local
